@@ -10,3 +10,4 @@
 >Jasmine Penn is currently a second semester junior at Montserrat College of Art.  She originally concentrated in photography, but switched to graphic design.  JP currently works at a Taco Bell in her hometown of Groton, CT when she’s not in school.  Her hobbies include skateboarding, playing guitar, singing, making and collecting stickers, and journaling. 
 
 If you would like to read the article, click [here.](https://alistapart.com/article/dao/)
+sghfiuWGEFIUGWEiuf

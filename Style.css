@@ -1,0 +1,19 @@
+        .headshot{
+            float: left;
+            margin-right: 20px;
+        }
+        body {
+            font-family: sans-serif;
+            max-width: 750px;
+            text-align: justify;
+            margin: 0 auto;
+            line-height: 1.5
+        }
+        h1 {
+            font-family: sans-serif;
+            text-align: center;
+            font-size: 47px;
+        }
+        h2 {
+            font-family: sans-serif;
+        }
